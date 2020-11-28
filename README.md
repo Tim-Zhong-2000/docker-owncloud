@@ -1,7 +1,7 @@
 # owncloud一键部署
 ## 环境要求
-docker
-docker-compose
+- docker
+- docker-compose
 
 ## 部署说明
 1. 启动服务
